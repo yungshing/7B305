@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: c6d35f94cab74604f840d9b3c6f6b7bf
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ChiMangJin_WuQi
+    100004: Bone09
+    100006: Bone08
+    100008: Bone07
+    100010: Bone06
+    100012: Bone05
+    100014: Bone04
+    100016: Bone03
+    100018: Bone02
+    100020: Bone01
+    100022: Bip01 R Toe0Nub
+    100024: Bip01 R Toe02
+    100026: Bip01 R Toe01
+    100028: Bip01 R Toe0
+    100030: Bip01 R Foot
+    100032: Bip01 R Calf
+    100034: Bip01 R Thigh
+    100036: Bip01 L Toe0Nub
+    100038: Bip01 L Toe02
+    100040: Bip01 L Toe01
+    100042: Bip01 L Toe0
+    100044: Bip01 L Foot
+    100046: Bip01 L Calf
+    100048: Bip01 L Thigh
+    100050: Bone_Wuqi
+    100052: Bip01 R Finger1
+    100054: Bip01 R Finger0
+    100056: Bip01 R Hand
+    100058: Bip01 R Forearm
+    100060: Bone_Wuqi01
+    100062: Bip01 L Finger1
+    100064: Bip01 L Finger0
+    100066: Bip01 L Hand
+    100068: Bip01 L Forearm
+    100070: Bone26
+    100072: Bone25
+    100074: Bone24
+    100076: Bone14
+    100078: Bone13
+    100080: Bip01 HeadNub
+    100082: Bip01 Head
+    100084: Bip01 Neck1
+    100086: Bip01 Neck
+    100088: Bip01 Spine1
+    100090: Bip01 Spine
+    100092: Bip01 Pelvis
+    100094: Bip01 Footsteps
+    100096: Bip01
+    100098: ChiMangJin_03
+    100100: ChiMangJin_WuQi2
+    100102: Bip01 R Finger1Nub
+    100104: Bip01 R Finger11
+    100106: Bip01 R Finger0Nub
+    100108: Bip01 R Finger01
+    100110: Bip01 R UpperArm
+    100112: Bip01 R Clavicle
+    100114: Bip01 L Finger1Nub
+    100116: Bip01 L Finger11
+    100118: Bip01 L Finger0Nub
+    100120: Bip01 L Finger01
+    100122: Bip01 L UpperArm
+    100124: Bip01 L Clavicle
+    100126: Bone14(mirrored)
+    100128: Bone13(mirrored)
+    100130: wuqi_2
+    100132: wuqi_2_2
+    100134: GuiqiJiang_Wuqi3
+    100136: KuLou_03
+    400000: //RootNode
+    400002: ChiMangJin_WuQi
+    400004: Bone09
+    400006: Bone08
+    400008: Bone07
+    400010: Bone06
+    400012: Bone05
+    400014: Bone04
+    400016: Bone03
+    400018: Bone02
+    400020: Bone01
+    400022: Bip01 R Toe0Nub
+    400024: Bip01 R Toe02
+    400026: Bip01 R Toe01
+    400028: Bip01 R Toe0
+    400030: Bip01 R Foot
+    400032: Bip01 R Calf
+    400034: Bip01 R Thigh
+    400036: Bip01 L Toe0Nub
+    400038: Bip01 L Toe02
+    400040: Bip01 L Toe01
+    400042: Bip01 L Toe0
+    400044: Bip01 L Foot
+    400046: Bip01 L Calf
+    400048: Bip01 L Thigh
+    400050: Bone_Wuqi
+    400052: Bip01 R Finger1
+    400054: Bip01 R Finger0
+    400056: Bip01 R Hand
+    400058: Bip01 R Forearm
+    400060: Bone_Wuqi01
+    400062: Bip01 L Finger1
+    400064: Bip01 L Finger0
+    400066: Bip01 L Hand
+    400068: Bip01 L Forearm
+    400070: Bone26
+    400072: Bone25
+    400074: Bone24
+    400076: Bone14
+    400078: Bone13
+    400080: Bip01 HeadNub
+    400082: Bip01 Head
+    400084: Bip01 Neck1
+    400086: Bip01 Neck
+    400088: Bip01 Spine1
+    400090: Bip01 Spine
+    400092: Bip01 Pelvis
+    400094: Bip01 Footsteps
+    400096: Bip01
+    400098: ChiMangJin_03
+    400100: ChiMangJin_WuQi2
+    400102: Bip01 R Finger1Nub
+    400104: Bip01 R Finger11
+    400106: Bip01 R Finger0Nub
+    400108: Bip01 R Finger01
+    400110: Bip01 R UpperArm
+    400112: Bip01 R Clavicle
+    400114: Bip01 L Finger1Nub
+    400116: Bip01 L Finger11
+    400118: Bip01 L Finger0Nub
+    400120: Bip01 L Finger01
+    400122: Bip01 L UpperArm
+    400124: Bip01 L Clavicle
+    400126: Bone14(mirrored)
+    400128: Bone13(mirrored)
+    400130: wuqi_2
+    400132: wuqi_2_2
+    400134: GuiqiJiang_Wuqi3
+    400136: KuLou_03
+    4300000: ChiMangJin_03
+    4300002: ChiMangJin_WuQi
+    4300004: ChiMangJin_WuQi2
+    4300006: wuqi_2
+    4300008: wuqi_2_2
+    4300010: KuLou_03
+    4300012: GuiqiJiang_Wuqi3
+    11100000: //RootNode
+    13700000: ChiMangJin_WuQi
+    13700002: ChiMangJin_03
+    13700004: ChiMangJin_WuQi2
+    13700006: wuqi_2
+    13700008: wuqi_2_2
+    13700010: GuiqiJiang_Wuqi3
+    13700012: KuLou_03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

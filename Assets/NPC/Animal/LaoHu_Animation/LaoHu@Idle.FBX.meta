@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: a19fe773a7162104591a34adebb2f751
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: rig_bone_Box21
+    100002: //RootNode
+    100004: rig_bone_Box19
+    100006: rig_bone_Box18
+    100008: rig_bone_Box17
+    100010: rig_bone_Box16
+    100012: rig_bone_Box15
+    100014: rig_bone_Box20
+    100016: rig_bone_Box22
+    100018: rig_bone_Box23
+    100020: rig_bone_Box14
+    100022: rig_bone_Box13
+    100024: rig_bone_Box12
+    100026: rig_bone_Box11
+    100028: rig_bone_Box10
+    100030: rig_bone_Box09
+    100032: rig_bone_Box34
+    100034: rig_bone_Box33
+    100036: rig_bone_Box32
+    100038: rig_bone_Box31
+    100040: rig_bone_Box35
+    100042: rig_bone_Box30
+    100044: rig_bone_Box29
+    100046: rig_bone_Box28
+    100048: rig_bone_Box27
+    100050: rig_bone_Box26
+    100052: rig_bone_Box25
+    100054: rig_bone_Box24
+    100056: rig_bone_Box07
+    100058: rig_bone_Box06
+    100060: rig_bone_Box05
+    100062: rig_bone_Box04
+    100064: rig_bone_Box03
+    100066: rig_bone_Box02
+    100068: rig_bone_Box01
+    100070: rig_bone_Box08
+    100072: Bip01 TailNub
+    100074: Bip01 Tail3
+    100076: Bip01 Tail2
+    100078: Bip01 Tail1
+    100080: Bip01 Tail
+    100082: Bip01 R Toe0Nub
+    100084: Bip01 R Toe0
+    100086: Bip01 R Foot
+    100088: Bip01 R Calf
+    100090: Bip01 R Thigh
+    100092: Bip01 L Toe0Nub
+    100094: Bip01 L Toe0
+    100096: Bip01 L Foot
+    100098: Bip01 L Calf
+    100100: Bip01 L Thigh
+    100102: Bip01 R Finger0
+    100104: Bip01 R Hand
+    100106: Bip01 R Forearm
+    100108: Bip01 L Finger0
+    100110: Bip01 L Hand
+    100112: Bip01 L Forearm
+    100114: Bip01 Ponytail1
+    100116: Bip01 HeadNub
+    100118: Bip01 Head
+    100120: Bip01 Neck
+    100122: Bip01 Spine2
+    100124: Bip01 Spine1
+    100126: Bip01 Spine
+    100128: Bip01 Pelvis
+    100130: Bip01 Footsteps
+    100132: Bip01
+    100134: Particle View 02
+    100136: Bip01 R HorseLink
+    100138: Bip01 L HorseLink
+    100140: Bip01 R Finger0Nub
+    100142: Bip01 R UpperArm
+    100144: Bip01 R Clavicle
+    100146: Bip01 L Finger0Nub
+    100148: Bip01 L UpperArm
+    100150: Bip01 L Clavicle
+    100152: Bip01 Ponytail1Nub
+    100154: Particle View 01
+    400000: rig_bone_Box21
+    400002: //RootNode
+    400004: rig_bone_Box19
+    400006: rig_bone_Box18
+    400008: rig_bone_Box17
+    400010: rig_bone_Box16
+    400012: rig_bone_Box15
+    400014: rig_bone_Box20
+    400016: rig_bone_Box22
+    400018: rig_bone_Box23
+    400020: rig_bone_Box14
+    400022: rig_bone_Box13
+    400024: rig_bone_Box12
+    400026: rig_bone_Box11
+    400028: rig_bone_Box10
+    400030: rig_bone_Box09
+    400032: rig_bone_Box34
+    400034: rig_bone_Box33
+    400036: rig_bone_Box32
+    400038: rig_bone_Box31
+    400040: rig_bone_Box35
+    400042: rig_bone_Box30
+    400044: rig_bone_Box29
+    400046: rig_bone_Box28
+    400048: rig_bone_Box27
+    400050: rig_bone_Box26
+    400052: rig_bone_Box25
+    400054: rig_bone_Box24
+    400056: rig_bone_Box07
+    400058: rig_bone_Box06
+    400060: rig_bone_Box05
+    400062: rig_bone_Box04
+    400064: rig_bone_Box03
+    400066: rig_bone_Box02
+    400068: rig_bone_Box01
+    400070: rig_bone_Box08
+    400072: Bip01 TailNub
+    400074: Bip01 Tail3
+    400076: Bip01 Tail2
+    400078: Bip01 Tail1
+    400080: Bip01 Tail
+    400082: Bip01 R Toe0Nub
+    400084: Bip01 R Toe0
+    400086: Bip01 R Foot
+    400088: Bip01 R Calf
+    400090: Bip01 R Thigh
+    400092: Bip01 L Toe0Nub
+    400094: Bip01 L Toe0
+    400096: Bip01 L Foot
+    400098: Bip01 L Calf
+    400100: Bip01 L Thigh
+    400102: Bip01 R Finger0
+    400104: Bip01 R Hand
+    400106: Bip01 R Forearm
+    400108: Bip01 L Finger0
+    400110: Bip01 L Hand
+    400112: Bip01 L Forearm
+    400114: Bip01 Ponytail1
+    400116: Bip01 HeadNub
+    400118: Bip01 Head
+    400120: Bip01 Neck
+    400122: Bip01 Spine2
+    400124: Bip01 Spine1
+    400126: Bip01 Spine
+    400128: Bip01 Pelvis
+    400130: Bip01 Footsteps
+    400132: Bip01
+    400134: Particle View 02
+    400136: Bip01 R HorseLink
+    400138: Bip01 L HorseLink
+    400140: Bip01 R Finger0Nub
+    400142: Bip01 R UpperArm
+    400144: Bip01 R Clavicle
+    400146: Bip01 L Finger0Nub
+    400148: Bip01 L UpperArm
+    400150: Bip01 L Clavicle
+    400152: Bip01 Ponytail1Nub
+    400154: Particle View 01
+    2300000: rig_bone_Box21
+    2300002: rig_bone_Box19
+    2300004: rig_bone_Box18
+    2300006: rig_bone_Box17
+    2300008: rig_bone_Box16
+    2300010: rig_bone_Box15
+    2300012: rig_bone_Box20
+    2300014: rig_bone_Box22
+    2300016: rig_bone_Box23
+    2300018: rig_bone_Box14
+    2300020: rig_bone_Box13
+    2300022: rig_bone_Box12
+    2300024: rig_bone_Box11
+    2300026: rig_bone_Box10
+    2300028: rig_bone_Box09
+    2300030: rig_bone_Box34
+    2300032: rig_bone_Box33
+    2300034: rig_bone_Box32
+    2300036: rig_bone_Box31
+    2300038: rig_bone_Box35
+    2300040: rig_bone_Box30
+    2300042: rig_bone_Box29
+    2300044: rig_bone_Box28
+    2300046: rig_bone_Box27
+    2300048: rig_bone_Box26
+    2300050: rig_bone_Box25
+    2300052: rig_bone_Box24
+    2300054: rig_bone_Box07
+    2300056: rig_bone_Box06
+    2300058: rig_bone_Box05
+    2300060: rig_bone_Box04
+    2300062: rig_bone_Box03
+    2300064: rig_bone_Box02
+    2300066: rig_bone_Box01
+    2300068: rig_bone_Box08
+    3300000: rig_bone_Box21
+    3300002: rig_bone_Box19
+    3300004: rig_bone_Box18
+    3300006: rig_bone_Box17
+    3300008: rig_bone_Box16
+    3300010: rig_bone_Box15
+    3300012: rig_bone_Box20
+    3300014: rig_bone_Box22
+    3300016: rig_bone_Box23
+    3300018: rig_bone_Box14
+    3300020: rig_bone_Box13
+    3300022: rig_bone_Box12
+    3300024: rig_bone_Box11
+    3300026: rig_bone_Box10
+    3300028: rig_bone_Box09
+    3300030: rig_bone_Box34
+    3300032: rig_bone_Box33
+    3300034: rig_bone_Box32
+    3300036: rig_bone_Box31
+    3300038: rig_bone_Box35
+    3300040: rig_bone_Box30
+    3300042: rig_bone_Box29
+    3300044: rig_bone_Box28
+    3300046: rig_bone_Box27
+    3300048: rig_bone_Box26
+    3300050: rig_bone_Box25
+    3300052: rig_bone_Box24
+    3300054: rig_bone_Box07
+    3300056: rig_bone_Box06
+    3300058: rig_bone_Box05
+    3300060: rig_bone_Box04
+    3300062: rig_bone_Box03
+    3300064: rig_bone_Box02
+    3300066: rig_bone_Box01
+    3300068: rig_bone_Box08
+    4300000: rig_bone_Box08
+    4300002: rig_bone_Box01
+    4300004: rig_bone_Box02
+    4300006: rig_bone_Box03
+    4300008: rig_bone_Box04
+    4300010: rig_bone_Box05
+    4300012: rig_bone_Box06
+    4300014: rig_bone_Box07
+    4300016: rig_bone_Box24
+    4300018: rig_bone_Box25
+    4300020: rig_bone_Box26
+    4300022: rig_bone_Box27
+    4300024: rig_bone_Box28
+    4300026: rig_bone_Box29
+    4300028: rig_bone_Box30
+    4300030: rig_bone_Box35
+    4300032: rig_bone_Box31
+    4300034: rig_bone_Box32
+    4300036: rig_bone_Box33
+    4300038: rig_bone_Box34
+    4300040: rig_bone_Box09
+    4300042: rig_bone_Box10
+    4300044: rig_bone_Box11
+    4300046: rig_bone_Box12
+    4300048: rig_bone_Box13
+    4300050: rig_bone_Box14
+    4300052: rig_bone_Box15
+    4300054: rig_bone_Box16
+    4300056: rig_bone_Box17
+    4300058: rig_bone_Box18
+    4300060: rig_bone_Box23
+    4300062: rig_bone_Box22
+    4300064: rig_bone_Box20
+    4300066: rig_bone_Box19
+    4300068: rig_bone_Box21
+    7400000: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

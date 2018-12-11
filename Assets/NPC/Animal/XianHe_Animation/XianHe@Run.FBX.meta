@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 5fb4f3d0c2f1a8b42843e72fbe45e18d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: biped
+    100002: biped Footsteps
+    100004: biped Head
+    100006: biped HeadNub
+    100008: biped L Calf
+    100010: biped L Clavicle
+    100012: biped L Finger0
+    100014: biped L Finger0Nub
+    100016: biped L Foot
+    100018: biped L Forearm
+    100020: biped L Hand
+    100022: biped L Thigh
+    100024: biped L Toe0
+    100026: biped L Toe0Nub
+    100028: biped L UpperArm
+    100030: biped Neck
+    100032: biped Neck1
+    100034: biped Neck2
+    100036: biped Neck3
+    100038: biped Neck4
+    100040: biped Neck5
+    100042: biped Pelvis
+    100044: biped R Calf
+    100046: biped R Clavicle
+    100048: biped R Finger0
+    100050: biped R Finger0Nub
+    100052: biped R Foot
+    100054: biped R Forearm
+    100056: biped R Hand
+    100058: biped R Thigh
+    100060: biped R Toe0
+    100062: biped R Toe0Nub
+    100064: biped R UpperArm
+    100066: biped Spine
+    100068: biped Tail
+    100070: biped Tail1
+    100072: biped Tail2
+    100074: biped TailNub
+    100076: Particle View 01
+    100078: Particle View 01 1
+    100080: Particle View 01 10
+    100082: Particle View 01 11
+    100084: Particle View 01 12
+    100086: Particle View 01 13
+    100088: Particle View 01 14
+    100090: Particle View 01 15
+    100092: Particle View 01 16
+    100094: Particle View 01 17
+    100096: Particle View 01 18
+    100098: Particle View 01 19
+    100100: Particle View 01 2
+    100102: Particle View 01 20
+    100104: Particle View 01 21
+    100106: Particle View 01 22
+    100108: Particle View 01 23
+    100110: Particle View 01 24
+    100112: Particle View 01 25
+    100114: Particle View 01 26
+    100116: Particle View 01 27
+    100118: Particle View 01 28
+    100120: Particle View 01 29
+    100122: Particle View 01 3
+    100124: Particle View 01 4
+    100126: Particle View 01 5
+    100128: Particle View 01 6
+    100130: Particle View 01 7
+    100132: Particle View 01 8
+    100134: Particle View 01 9
+    100136: //RootNode
+    400000: biped
+    400002: biped Footsteps
+    400004: biped Head
+    400006: biped HeadNub
+    400008: biped L Calf
+    400010: biped L Clavicle
+    400012: biped L Finger0
+    400014: biped L Finger0Nub
+    400016: biped L Foot
+    400018: biped L Forearm
+    400020: biped L Hand
+    400022: biped L Thigh
+    400024: biped L Toe0
+    400026: biped L Toe0Nub
+    400028: biped L UpperArm
+    400030: biped Neck
+    400032: biped Neck1
+    400034: biped Neck2
+    400036: biped Neck3
+    400038: biped Neck4
+    400040: biped Neck5
+    400042: biped Pelvis
+    400044: biped R Calf
+    400046: biped R Clavicle
+    400048: biped R Finger0
+    400050: biped R Finger0Nub
+    400052: biped R Foot
+    400054: biped R Forearm
+    400056: biped R Hand
+    400058: biped R Thigh
+    400060: biped R Toe0
+    400062: biped R Toe0Nub
+    400064: biped R UpperArm
+    400066: biped Spine
+    400068: biped Tail
+    400070: biped Tail1
+    400072: biped Tail2
+    400074: biped TailNub
+    400076: Particle View 01
+    400078: Particle View 01 1
+    400080: Particle View 01 10
+    400082: Particle View 01 11
+    400084: Particle View 01 12
+    400086: Particle View 01 13
+    400088: Particle View 01 14
+    400090: Particle View 01 15
+    400092: Particle View 01 16
+    400094: Particle View 01 17
+    400096: Particle View 01 18
+    400098: Particle View 01 19
+    400100: Particle View 01 2
+    400102: Particle View 01 20
+    400104: Particle View 01 21
+    400106: Particle View 01 22
+    400108: Particle View 01 23
+    400110: Particle View 01 24
+    400112: Particle View 01 25
+    400114: Particle View 01 26
+    400116: Particle View 01 27
+    400118: Particle View 01 28
+    400120: Particle View 01 29
+    400122: Particle View 01 3
+    400124: Particle View 01 4
+    400126: Particle View 01 5
+    400128: Particle View 01 6
+    400130: Particle View 01 7
+    400132: Particle View 01 8
+    400134: Particle View 01 9
+    400136: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

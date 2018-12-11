@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: aa746d87f28245f409fe55f68f8f9fdc
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Yun
+    100002: Bone_Zuoqi
+    100004: Bone04
+    100006: Bip01 L Thigh
+    100008: Bone_Chibang
+    100010: Bone_Caiji
+    100012: Bip01 R Finger1
+    100014: Bip01 R Finger0
+    100016: Bip01 R Hand
+    100018: Bip01 L Finger0
+    100020: Bip01 L Hand
+    100022: Bip01 L Forearm
+    100024: Bone06
+    100026: Bone05
+    100028: Bone08
+    100030: Bip01 R UpperArm
+    100032: Bip01 R Clavicle
+    100034: Bip01 L Finger1Nub
+    100036: Bip01 L Finger11
+    100038: Bip01 L Finger0Nub
+    100040: Bip01 L Finger01
+    100042: Bip01 L UpperArm
+    100044: Bip01 L Clavicle
+    100046: Bip01 R Forearm
+    100048: Bone12
+    100050: Bone11
+    100052: Bone10
+    100054: Bone09
+    100056: Bone_Bow
+    100058: Bip01 L Finger1
+    100060: Bone03
+    100062: Bone02
+    100064: Bone01
+    100066: Bip01 R Toe0Nub
+    100068: Bip01 R Toe0
+    100070: Bip01 R Foot
+    100072: Bip01 R Calf
+    100074: Bip01 R Thigh
+    100076: Bip01 L Toe0Nub
+    100078: Bip01 L Toe0
+    100080: Bip01 L Foot
+    100082: Bip01 L Calf
+    100084: Bone07
+    100086: Bip01 HeadNub
+    100088: Bip01 Head
+    100090: Bip01 Neck
+    100092: Bip01 Spine2
+    100094: Bip01 Spine1
+    100096: Bip01 Spine
+    100098: Bip01 Pelvis
+    100100: Bip01 Footsteps
+    100102: Bip01
+    100104: //RootNode
+    100106: Archer_Female_03
+    100108: Archer_Female_TouFa
+    100110: Archer_Female_Lian
+    100112: Archer_Female_WeiBa
+    100114: Bip01 R Finger1Nub
+    100116: Bip01 R Finger11
+    100118: Bip01 R Finger0Nub
+    100120: Bip01 R Finger01
+    400000: Bone_Yun
+    400002: Bone_Zuoqi
+    400004: Bone04
+    400006: Bip01 L Thigh
+    400008: Bone_Chibang
+    400010: Bone_Caiji
+    400012: Bip01 R Finger1
+    400014: Bip01 R Finger0
+    400016: Bip01 R Hand
+    400018: Bip01 L Finger0
+    400020: Bip01 L Hand
+    400022: Bip01 L Forearm
+    400024: Bone06
+    400026: Bone05
+    400028: Bone08
+    400030: Bip01 R UpperArm
+    400032: Bip01 R Clavicle
+    400034: Bip01 L Finger1Nub
+    400036: Bip01 L Finger11
+    400038: Bip01 L Finger0Nub
+    400040: Bip01 L Finger01
+    400042: Bip01 L UpperArm
+    400044: Bip01 L Clavicle
+    400046: Bip01 R Forearm
+    400048: Bone12
+    400050: Bone11
+    400052: Bone10
+    400054: Bone09
+    400056: Bone_Bow
+    400058: Bip01 L Finger1
+    400060: Bone03
+    400062: Bone02
+    400064: Bone01
+    400066: Bip01 R Toe0Nub
+    400068: Bip01 R Toe0
+    400070: Bip01 R Foot
+    400072: Bip01 R Calf
+    400074: Bip01 R Thigh
+    400076: Bip01 L Toe0Nub
+    400078: Bip01 L Toe0
+    400080: Bip01 L Foot
+    400082: Bip01 L Calf
+    400084: Bone07
+    400086: Bip01 HeadNub
+    400088: Bip01 Head
+    400090: Bip01 Neck
+    400092: Bip01 Spine2
+    400094: Bip01 Spine1
+    400096: Bip01 Spine
+    400098: Bip01 Pelvis
+    400100: Bip01 Footsteps
+    400102: Bip01
+    400104: //RootNode
+    400106: Archer_Female_03
+    400108: Archer_Female_TouFa
+    400110: Archer_Female_Lian
+    400112: Archer_Female_WeiBa
+    400114: Bip01 R Finger1Nub
+    400116: Bip01 R Finger11
+    400118: Bip01 R Finger0Nub
+    400120: Bip01 R Finger01
+    4300000: Archer_Female_WeiBa
+    4300002: Archer_Female_Lian
+    4300004: Archer_Female_TouFa
+    4300006: Archer_Female_03
+    11100000: //RootNode
+    13700000: Archer_Female_03
+    13700002: Archer_Female_TouFa
+    13700004: Archer_Female_Lian
+    13700006: Archer_Female_WeiBa
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

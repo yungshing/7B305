@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 62c17c8a869b1494cba55ca07578e90c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ManSkeletonBasic:bone
+    100004: ManSkeletonBasic:COG
+    100006: ManSkeletonBasic:CONTROLS
+    100008: ManSkeletonBasic:cookHat
+    100010: ManSkeletonBasic:eff
+    100012: ManSkeletonBasic:Face04
+    100014: ManSkeletonBasic:GlobalSRT
+    100016: ManSkeletonBasic:Hand_Foot
+    100018: ManSkeletonBasic:Head
+    100020: ManSkeletonBasic:HeadRoot
+    100022: ManSkeletonBasic:hige
+    100024: ManSkeletonBasic:knife
+    100026: ManSkeletonBasic:LArmEff
+    100028: ManSkeletonBasic:LArmRoot
+    100030: ManSkeletonBasic:LBicept
+    100032: ManSkeletonBasic:LFoot
+    100034: ManSkeletonBasic:LFootEff
+    100036: ManSkeletonBasic:LForearm
+    100038: ManSkeletonBasic:LHand
+    100040: ManSkeletonBasic:LHandEff
+    100042: ManSkeletonBasic:LHandRoot
+    100044: ManSkeletonBasic:LLegRoot
+    100046: ManSkeletonBasic:LRootFoot
+    100048: ManSkeletonBasic:LRootShoulder
+    100050: ManSkeletonBasic:LShin
+    100052: ManSkeletonBasic:LShoulder
+    100054: ManSkeletonBasic:LShoulderEff
+    100056: ManSkeletonBasic:LThigh
+    100058: ManSkeletonBasic:LToe
+    100060: ManSkeletonBasic:LToeEff
+    100062: ManSkeletonBasic:Neck
+    100064: ManSkeletonBasic:NeckEff
+    100066: ManSkeletonBasic:pant01
+    100068: ManSkeletonBasic:RArmEff
+    100070: ManSkeletonBasic:RArmRoot
+    100072: ManSkeletonBasic:RBicept
+    100074: ManSkeletonBasic:RFoot
+    100076: ManSkeletonBasic:RFootEff
+    100078: ManSkeletonBasic:RForearm
+    100080: ManSkeletonBasic:RHand
+    100082: ManSkeletonBasic:RHandEff
+    100084: ManSkeletonBasic:RHandRoot
+    100086: ManSkeletonBasic:RLegRoot
+    100088: ManSkeletonBasic:RRootFoot
+    100090: ManSkeletonBasic:RRootShoulder
+    100092: ManSkeletonBasic:RShin
+    100094: ManSkeletonBasic:RShoulder
+    100096: ManSkeletonBasic:RShoulderEff
+    100098: ManSkeletonBasic:RThigh
+    100100: ManSkeletonBasic:RToe
+    100102: ManSkeletonBasic:RToeEff
+    100104: ManSkeletonBasic:shadow
+    100106: ManSkeletonBasic:shadowBone
+    100108: ManSkeletonBasic:Skeleton
+    100110: ManSkeletonBasic:Spine1
+    100112: ManSkeletonBasic:Spine2
+    100114: ManSkeletonBasic:Spine3
+    100116: ManSkeletonBasic:SpineEff
+    100118: ManSkeletonBasic:SpineRoot
+    100120: ManSkeletonBasic:Texture_Support8
+    100122: ManSkeletonBasic:Y_Shirt_close
+    400000: //RootNode
+    400002: ManSkeletonBasic:bone
+    400004: ManSkeletonBasic:COG
+    400006: ManSkeletonBasic:CONTROLS
+    400008: ManSkeletonBasic:cookHat
+    400010: ManSkeletonBasic:eff
+    400012: ManSkeletonBasic:Face04
+    400014: ManSkeletonBasic:GlobalSRT
+    400016: ManSkeletonBasic:Hand_Foot
+    400018: ManSkeletonBasic:Head
+    400020: ManSkeletonBasic:HeadRoot
+    400022: ManSkeletonBasic:hige
+    400024: ManSkeletonBasic:knife
+    400026: ManSkeletonBasic:LArmEff
+    400028: ManSkeletonBasic:LArmRoot
+    400030: ManSkeletonBasic:LBicept
+    400032: ManSkeletonBasic:LFoot
+    400034: ManSkeletonBasic:LFootEff
+    400036: ManSkeletonBasic:LForearm
+    400038: ManSkeletonBasic:LHand
+    400040: ManSkeletonBasic:LHandEff
+    400042: ManSkeletonBasic:LHandRoot
+    400044: ManSkeletonBasic:LLegRoot
+    400046: ManSkeletonBasic:LRootFoot
+    400048: ManSkeletonBasic:LRootShoulder
+    400050: ManSkeletonBasic:LShin
+    400052: ManSkeletonBasic:LShoulder
+    400054: ManSkeletonBasic:LShoulderEff
+    400056: ManSkeletonBasic:LThigh
+    400058: ManSkeletonBasic:LToe
+    400060: ManSkeletonBasic:LToeEff
+    400062: ManSkeletonBasic:Neck
+    400064: ManSkeletonBasic:NeckEff
+    400066: ManSkeletonBasic:pant01
+    400068: ManSkeletonBasic:RArmEff
+    400070: ManSkeletonBasic:RArmRoot
+    400072: ManSkeletonBasic:RBicept
+    400074: ManSkeletonBasic:RFoot
+    400076: ManSkeletonBasic:RFootEff
+    400078: ManSkeletonBasic:RForearm
+    400080: ManSkeletonBasic:RHand
+    400082: ManSkeletonBasic:RHandEff
+    400084: ManSkeletonBasic:RHandRoot
+    400086: ManSkeletonBasic:RLegRoot
+    400088: ManSkeletonBasic:RRootFoot
+    400090: ManSkeletonBasic:RRootShoulder
+    400092: ManSkeletonBasic:RShin
+    400094: ManSkeletonBasic:RShoulder
+    400096: ManSkeletonBasic:RShoulderEff
+    400098: ManSkeletonBasic:RThigh
+    400100: ManSkeletonBasic:RToe
+    400102: ManSkeletonBasic:RToeEff
+    400104: ManSkeletonBasic:shadow
+    400106: ManSkeletonBasic:shadowBone
+    400108: ManSkeletonBasic:Skeleton
+    400110: ManSkeletonBasic:Spine1
+    400112: ManSkeletonBasic:Spine2
+    400114: ManSkeletonBasic:Spine3
+    400116: ManSkeletonBasic:SpineEff
+    400118: ManSkeletonBasic:SpineRoot
+    400120: ManSkeletonBasic:Texture_Support8
+    400122: ManSkeletonBasic:Y_Shirt_close
+    4300000: ManSkeletonBasic:Hand_Foot
+    4300002: ManSkeletonBasic:pant01
+    4300004: ManSkeletonBasic:shadow
+    4300006: ManSkeletonBasic:Y_Shirt_close
+    4300008: ManSkeletonBasic:Face04
+    4300010: ManSkeletonBasic:hige
+    4300012: ManSkeletonBasic:cookHat
+    4300014: ManSkeletonBasic:knife
+    7400000: idle
+    7400002: attack
+    7400004: hit
+    11100000: //RootNode
+    13700000: ManSkeletonBasic:cookHat
+    13700002: ManSkeletonBasic:Face04
+    13700004: ManSkeletonBasic:Hand_Foot
+    13700006: ManSkeletonBasic:hige
+    13700008: ManSkeletonBasic:knife
+    13700010: ManSkeletonBasic:pant01
+    13700012: ManSkeletonBasic:shadow
+    13700014: ManSkeletonBasic:Y_Shirt_close
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_Foot
+    second: {fileID: 2100000, guid: 77a8c0f8cb910d04fbc1b19ecbf1cde2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shadow
+    second: {fileID: 2100000, guid: 6ad6de1ffb9472148a722d5b90754674, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: 
+      firstFrame: 20
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit
+      takeName: 
+      firstFrame: 60
+      lastFrame: 76
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

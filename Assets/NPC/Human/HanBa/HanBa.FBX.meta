@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: b897ad17bc2db4e44aa1598d5e2e1db3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip01 R Toe0
+    100002: Bip01 R Foot
+    100004: Bip01 R Calf
+    100006: Bip01 R Thigh
+    100008: Bip01 L Toe0Nub
+    100010: Bip01 L Toe0
+    100012: Bip01 L Foot
+    100014: Bip01 L Calf
+    100016: Bip01 L Thigh
+    100018: Bip01 R Finger1
+    100020: Bip01 R Finger0
+    100022: Bip01 R Hand
+    100024: Bip01 R Forearm
+    100026: Bone01
+    100028: Bip01 L Finger1
+    100030: Bip01 L Finger0
+    100032: Bip01 L Hand
+    100034: Bip01 L Forearm
+    100036: Bip01 HeadNub
+    100038: Bip01 Head
+    100040: Bip01 Neck
+    100042: Bip01 Spine1
+    100044: Bip01 Spine
+    100046: Bip01 Pelvis
+    100048: Bip01 Footsteps
+    100050: Bip01
+    100052: HanBa_Wuqi1
+    100054: HanBa_Wuqi2
+    100056: HanBa_04
+    100058: HanBa_03
+    100060: HanBa_02
+    100062: ShenTi
+    100064: HanBa_01
+    100066: Bip01 R Finger1Nub
+    100068: Bip01 R Finger11
+    100070: Bip01 R Finger0Nub
+    100072: Bip01 R Finger01
+    100074: Bip01 R UpperArm
+    100076: Bip01 R Clavicle
+    100078: Bip01 L Finger1Nub
+    100080: Bip01 L Finger11
+    100082: Bip01 L Finger0Nub
+    100084: Bip01 L Finger01
+    100086: Bip01 L UpperArm
+    100088: Bip01 L Clavicle
+    100090: Bip01 R Toe0Nub
+    100092: //RootNode
+    100094: wuqi_1
+    100096: wuqi_2
+    400000: Bip01 R Toe0
+    400002: Bip01 R Foot
+    400004: Bip01 R Calf
+    400006: Bip01 R Thigh
+    400008: Bip01 L Toe0Nub
+    400010: Bip01 L Toe0
+    400012: Bip01 L Foot
+    400014: Bip01 L Calf
+    400016: Bip01 L Thigh
+    400018: Bip01 R Finger1
+    400020: Bip01 R Finger0
+    400022: Bip01 R Hand
+    400024: Bip01 R Forearm
+    400026: Bone01
+    400028: Bip01 L Finger1
+    400030: Bip01 L Finger0
+    400032: Bip01 L Hand
+    400034: Bip01 L Forearm
+    400036: Bip01 HeadNub
+    400038: Bip01 Head
+    400040: Bip01 Neck
+    400042: Bip01 Spine1
+    400044: Bip01 Spine
+    400046: Bip01 Pelvis
+    400048: Bip01 Footsteps
+    400050: Bip01
+    400052: HanBa_Wuqi1
+    400054: HanBa_Wuqi2
+    400056: HanBa_04
+    400058: HanBa_03
+    400060: HanBa_02
+    400062: ShenTi
+    400064: HanBa_01
+    400066: Bip01 R Finger1Nub
+    400068: Bip01 R Finger11
+    400070: Bip01 R Finger0Nub
+    400072: Bip01 R Finger01
+    400074: Bip01 R UpperArm
+    400076: Bip01 R Clavicle
+    400078: Bip01 L Finger1Nub
+    400080: Bip01 L Finger11
+    400082: Bip01 L Finger0Nub
+    400084: Bip01 L Finger01
+    400086: Bip01 L UpperArm
+    400088: Bip01 L Clavicle
+    400090: Bip01 R Toe0Nub
+    400092: //RootNode
+    400094: wuqi_1
+    400096: wuqi_2
+    4300000: HanBa_01
+    4300002: ShenTi
+    4300004: HanBa_02
+    4300006: HanBa_03
+    4300008: HanBa_04
+    4300010: HanBa_Wuqi2
+    4300012: HanBa_Wuqi1
+    4300014: wuqi_1
+    4300016: wuqi_2
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: HanBa_Wuqi1
+    13700002: HanBa_Wuqi2
+    13700004: HanBa_04
+    13700006: HanBa_03
+    13700008: HanBa_02
+    13700010: ShenTi
+    13700012: HanBa_01
+    13700014: wuqi_1
+    13700016: wuqi_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_13
+    second: {fileID: 2100000, guid: f0d25b767f3f2ad4caaa62ed79b43a97, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

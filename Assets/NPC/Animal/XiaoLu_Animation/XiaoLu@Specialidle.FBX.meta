@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 944125dea6550e842a43f1ce7046012e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: biped
+    100002: biped Footsteps
+    100004: biped Head
+    100006: biped HeadNub
+    100008: biped L Calf
+    100010: biped L Clavicle
+    100012: biped L Finger0
+    100014: biped L Finger0Nub
+    100016: biped L Foot
+    100018: biped L Forearm
+    100020: biped L Hand
+    100022: biped L Thigh
+    100024: biped L Toe0
+    100026: biped L Toe0Nub
+    100028: biped L UpperArm
+    100030: biped Neck
+    100032: biped Neck1
+    100034: biped Neck2
+    100036: biped Pelvis
+    100038: biped Ponytail1
+    100040: biped Ponytail1Nub
+    100042: biped Ponytail2
+    100044: biped Ponytail2Nub
+    100046: biped R Calf
+    100048: biped R Clavicle
+    100050: biped R Finger0
+    100052: biped R Finger0Nub
+    100054: biped R Foot
+    100056: biped R Forearm
+    100058: biped R Hand
+    100060: biped R Thigh
+    100062: biped R Toe0
+    100064: biped R Toe0Nub
+    100066: biped R UpperArm
+    100068: biped Spine
+    100070: biped Spine1
+    100072: biped Tail
+    100074: biped TailNub
+    100076: //RootNode
+    400000: biped
+    400002: biped Footsteps
+    400004: biped Head
+    400006: biped HeadNub
+    400008: biped L Calf
+    400010: biped L Clavicle
+    400012: biped L Finger0
+    400014: biped L Finger0Nub
+    400016: biped L Foot
+    400018: biped L Forearm
+    400020: biped L Hand
+    400022: biped L Thigh
+    400024: biped L Toe0
+    400026: biped L Toe0Nub
+    400028: biped L UpperArm
+    400030: biped Neck
+    400032: biped Neck1
+    400034: biped Neck2
+    400036: biped Pelvis
+    400038: biped Ponytail1
+    400040: biped Ponytail1Nub
+    400042: biped Ponytail2
+    400044: biped Ponytail2Nub
+    400046: biped R Calf
+    400048: biped R Clavicle
+    400050: biped R Finger0
+    400052: biped R Finger0Nub
+    400054: biped R Foot
+    400056: biped R Forearm
+    400058: biped R Hand
+    400060: biped R Thigh
+    400062: biped R Toe0
+    400064: biped R Toe0Nub
+    400066: biped R UpperArm
+    400068: biped Spine
+    400070: biped Spine1
+    400072: biped Tail
+    400074: biped TailNub
+    400076: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
